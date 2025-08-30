@@ -9,7 +9,8 @@ __pycache__/
 # Archivos temporales de Word
 ~$*.docx
 ~$*.doc
-
+*.docx
+*.doc
 
 # Distribution / packaging
 .Python
@@ -211,5 +212,3 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-.docx
-.doc
