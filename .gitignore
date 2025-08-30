@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Archivos temporales de Word
+~$*.docx
+~$*.doc
+
+
 # Distribution / packaging
 .Python
 build/
